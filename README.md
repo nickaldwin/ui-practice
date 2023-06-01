@@ -2,9 +2,9 @@
 
 ## How It's Made:
 
-**Tech used:** `gulp`  `gulp-sass` `gulp-postcss` `sass`
-
-This app allows users to make an account and upload posts with pictures, look at a feed of all user posts, comments on posts, and view user profiles. I used EJS to apply my HTML and Tailwind for the CSS to for the front-end. I used JS for some conditional features like allowing the original poster to delete their comments and/or posts. Node was used to craft the server and all information is stored on MongoDB. Passwords are hashed before storing i put comments in individual folders. 
+**Tech used:**<br>
+<br>
+`gulp`  `gulp-sass` `gulp-postcss` `sass`
 
 
 
